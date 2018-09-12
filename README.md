@@ -1,5 +1,6 @@
 # 3d_HIP_mesh
-ヒッパルコス星表の星位置を頂点とする3Dモデルです。
+ヒッパルコス星表の星位置を頂点とする3Dモデルです。  
+3Dモデルの作成に使ったスクリプトも公開していますが、もし使う際は作成された3Dモデルを使えばいいと思います。
 
 * [BrowseTargets.1213.1536347830](./BrowseTargets.1213.1536347830)
   * ヒッパルコス星表
@@ -14,7 +15,7 @@
 * [create_galaxy.py](./create_galaxy.py)
   * メッシュ作成スクリプト
 * [galaxy.fbx](./galaxy.fbx)
-  * 作成後の3Dモデル
+  * 作成した3Dモデル
 
 ## License
 This repository is licensed under the BSD license, see [LICENSE](./LICENSE)
