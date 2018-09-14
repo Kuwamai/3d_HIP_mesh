@@ -12,8 +12,6 @@ bpy.context.scene.objects.link(obj)
 faces = []
 for i in range(len(pos)-2):
     faces.append([i, i+1, i+2])
-faces.append([len(pos)-2, len(pos)-1, 0])
-faces.append([len(pos)-1, 0, 1])
 
 mesh.from_pydata(pos, [], faces)
 mesh.update()
