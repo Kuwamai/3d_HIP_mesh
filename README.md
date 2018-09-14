@@ -18,4 +18,4 @@
   * 作成した3Dモデル
 
 ## License
-This repository is licensed under the BSD license, see [LICENSE](./LICENSE)
+This repository is licensed under the MIT license, see [LICENSE](./LICENSE)
